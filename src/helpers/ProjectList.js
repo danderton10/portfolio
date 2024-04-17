@@ -1,39 +1,21 @@
-import Proj1 from '../assets/proj1.jpg';
-import Proj2 from '../assets/proj2.jpg';
-import Proj3 from '../assets/proj3.webp';
-import Proj4 from '../assets/proj4.webp';
-import Proj5 from '../assets/proj5.jpg';
-import Proj6 from '../assets/proj6.png';
+import Proj1 from '../assets/FYP_poster.png';
+import Proj2 from '../assets/LRP.png';
+import Proj3 from '../assets/tictactoe.png';
 
 export const ProjectList = [
     {
-        name: "Algorithm Visualiser",
+        name: "ML Classification for Cricket",
         image: Proj1,
-        skills: "Javascript, HTML, CSS"
+        skills: "Python, Swift"
     },
     {
-        name: "Ecommerce Website",
+        name: "V2G Literature Review",
         image: Proj2,
-        skills: "Javascript, HTML, CSS"
+        skills: "LaTeX"
     },
     {
-        name: "Spotify Clone",
+        name: "Football Tic Tac Toe",
         image: Proj3,
-        skills: "Javascript, HTML, CSS"
-    },
-    {
-        name: "Social Media Website",
-        image: Proj4,
-        skills: "Javascript, HTML, CSS"
-    },
-    {
-        name: "Dashboard Visual",
-        image: Proj5,
-        skills: "Javascript, HTML, CSS"
-    },
-    {
-        name: "Mobile Game",
-        image: Proj6,
         skills: "Javascript, HTML, CSS"
     }
 ]
